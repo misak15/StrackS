@@ -1,0 +1,3 @@
+[submodule "s3uploader-ui"]
+	path = s3uploader-ui
+	url = https://github.com/aws-samples/s3uploader-ui
